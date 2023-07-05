@@ -368,7 +368,7 @@ body {
     top: 2.5rem;
     width: 20rem;
     height: 0.8125rem;
-    background-image: url("C:/Users/Srinjoy/Desktop/HTML/Jadoo/Photos/herotitle.svg");
+    background-image: url("./Photos/herotitle.svg");
     background-size: contain;
     z-index: -1;
 }
@@ -397,7 +397,7 @@ body {
 }
 
 .maincont1 {
-    background-image: url("C:/Users/Srinjoy/Desktop/HTML/Jadoo/Photos/hero-bg.svg");
+    background-image: url("./Photos/hero-bg.svg");
     background-size: cover;
 
 }
